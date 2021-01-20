@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The project is to edit facebook page with react application
 the facebook page details are fetched/edited using django as backend 
 
-##LIVE DEMO
+## LIVE DEMO
 https://still-caverns-50881.herokuapp.com/
 
 ## Available Scripts
